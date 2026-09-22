@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8d0a5aeb80c09279c4775c1a",
+  "owner": "dhbwbpdpjq",
+  "repo": "page-652ac74cbef671248add32fd",
+  "title": "Novabroad",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "652ac74cbef671248add32fd",
+      "a": "Novabroad",
+      "b": "机场官网线路发布页",
+      "entity": "Novabroad",
+      "brand": "Novabroad",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0831a636c5c05b143422678ad5a5628a380de95153e033c6870e353720c3355f",
+      "content": {
+        "primary_entity": "Novabroad",
+        "keyword1": "Novabroad",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择客户端，并按客户端文档导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求确定套餐，完成订阅配置即可使用。",
+          "AI_CLOSING_TITLE": "选对套餐",
+          "AI_DESCRIPTION": "，Novabroad 提供基础版、旗舰版与团队版三档方案，覆盖 100GB 到 1000GB 月流量与 3 到 20 台设备同时在线需求。旗舰版配备 IPLC 专线，适合游戏与高带宽场景；团队版支持企业定制路由。按年付可享更低的月均成本，订阅后依客户端文档完成导入即可。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备。按人数与流量选即可。",
+          "AI_FAQ_ANSWER_2": "按年付分别为 ¥150/年、¥350/年、¥850/年，相比月付更划算，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_3": "旗舰版含 IPLC 专线，对游戏加速与高带宽场景做了优化；团队版提供 VIP 专属高带宽节点。",
+          "AI_FAQ_ANSWER_4": "在对应客户端中粘贴订阅链接并更新节点列表，具体步骤参见所选客户端的文档说明。",
+          "AI_FAQ_ANSWER_5": "旗舰版有 7x24 优先工单支持，团队版含专属客户经理服务，可按需选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数量怎么选？",
+          "AI_FAQ_QUESTION_2": "按年付和按月付有什么区别？",
+          "AI_FAQ_QUESTION_3": "IPLC 专线适合哪些使用场景？",
+          "AI_FAQ_QUESTION_4": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_5": "遇到问题可以获取哪些支持？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备与线路三方面对比套餐差异，选择合适方案。",
+          "AI_FEATURES_TITLE": "套餐要点",
+          "AI_FEATURE_TEXT_1": "基础版月付 ¥15，旗舰版 ¥35，团队版 ¥85，均支持按年付。",
+          "AI_FEATURE_TEXT_2": "在线设备数从 3 台到 20 台，按日常使用人数选择对应档位。",
+          "AI_FEATURE_TEXT_3": "旗舰版与团队版提供专线或高带宽节点，适合游戏与企业场景。",
+          "AI_FEATURE_TITLE_1": "价格梯度",
+          "AI_FEATURE_TITLE_2": "设备适配",
+          "AI_FEATURE_TITLE_3": "线路差异",
+          "AI_GUIDE_INTRO": "按需求选套餐并完成基础配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Novabroad 提供多档海外加速套餐，覆盖从个人到团队的流量与设备需求。基础版适合轻量使用，旗舰版侧重流媒体与游戏加速，团队版面向多设备协作。按年付可降低月均成本，订阅后按客户端文档完成配置。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "年付更省月均成本",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_PLANS_INTRO": "基础版 100GB/3 台，旗舰版 300GB/5 台，团队版 1000GB/20 台，按年付更省。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版、团队版中选择。",
+          "AI_STEP_TEXT_2": "查看套餐的设备限制与线路说明，确认适配自己的使用场景。",
+          "AI_STEP_TEXT_3": "在客户端中按文档导入订阅链接，更新节点后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Novabroad 套餐优选"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wy0z8i.cn",
+    "host": "wy0z8i.cn"
+  },
+  "file_hashes": {
+    "index.html": "b0087066fab922544c70554f5e968d702ad27bb756b76b6c5269678552fee33a",
+    "sitemap.xml": "4c10d41deb4ac72709e0cb8d1ea951d793489a56fd13af0b7844db1f032206f1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5f6e6af0de8ab2ae708f6595e7e9414f41238d53416563e61924fc7dfc343224",
+    "robots.txt": "c85f12003f9d451b0a793bd6fac817a1f97fd5d15ac56468308eecaddecb1252",
+    "a6ce6cefd28859c052ae6cbb36a3ea5f.txt": "20ba244ed018e4a6278634d7f4602ccf1f2f42358739118bf83001a561f01e7f"
+  },
+  "revision": "b1c40a8c2dbdca59cf9f11cbb924d6186ae302e71470063b37759ee1b5b8784d"
+}
